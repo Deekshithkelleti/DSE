@@ -135,7 +135,7 @@ DECLARE
     SUBTYPE name IS CHAR(20);
     student_name name;
 BEGIN
-    student_name := 'Tulasi';
+    student_name := 'Meghana';
     DBMS_OUTPUT.PUT_LINE(student_name);
 END;
 /
