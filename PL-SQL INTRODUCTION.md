@@ -81,7 +81,7 @@ END;
 DECLARE
     name VARCHAR2(20);
 BEGIN
-    name := 'Tulasi';
+    name := 'Meghana';
     DBMS_OUTPUT.PUT_LINE(name);
 END;
 /
